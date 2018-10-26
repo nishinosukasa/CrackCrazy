@@ -1,5 +1,10 @@
 # CrackCrazy
 Bruteforcer Tool
+
+# Screenshot
+<img src="https://image.ibb.co/d9ZDLq/Screenshot-1970-01-01-09-07-52.png" wight="150" hight="150">
+
+# Installation
 ```
 $ apt-get update
 $ apt-get upgrade
