@@ -15,3 +15,7 @@ $ git clone https://github.com/nishinosukasa/CrackCrazy.git
 $ cd CrackCrazy
 $ python2 CrackCrazy.py
 ```
+
+# Website
+https://cruznos.blogspot.com/<br>
+https://nostalgiaxploit.wordpress.com
